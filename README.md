@@ -4,7 +4,7 @@
 
 - cloneしてください。
 
-- `main.md`に自己紹介を書いてください。
+- `public/main.md`に自己紹介を書いてください。
 - ソーシャルボタンのリンクは、`index.html`の`<a>`タグを編集してください。
 - 画像は`images`ディレクトリのjpgファイルを置き換えてください。
   - `photo_landscaple.jpg`: 横長の写真
