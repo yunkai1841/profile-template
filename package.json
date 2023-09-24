@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "build --base=/profile-template/": "vite build --base=/profile-template/"
+    "build --base=/profile-template/": "vite build --base=/profile-template/",
+    "build:product": "vite build --base=/your/base/path/"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
