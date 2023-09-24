@@ -32,8 +32,9 @@ yarn dev # or npm run dev
 ```
 
 6. ビルドする
+package.jsonのbuild:productのbase pathを置き換えてからビルドしてください。
 ```bash
-yarn build # or npm run build
+yarn build:product # or npm run build
 ```
 
 7. デプロイする  
